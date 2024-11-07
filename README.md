@@ -1,2 +1,1 @@
-# aisecurity-landscape
-ai security landscape
+# AI Security Landscape
